@@ -1,6 +1,6 @@
 # Sipdial per ESP8266 an Fritzbox
 
-Mit diesem Code kann man mit einen ESP8266 eine Türklingel 
+Mit diesem Code kann man mit einem ESP8266 o.ä. eine Türklingel 
 z.B. an der Fritzbox realisieren. Dazu muss in der Fritzbox ein neues 
 Telefongerät eingerichtet werden. 
 
